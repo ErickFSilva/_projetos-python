@@ -5,7 +5,7 @@ Utilizada para exibir conteúdos em tela
 Ela recebe argumentos
 Os argumentos são separados por vírgula
 Por padrão, é adicionado um espaço entre a exibição de um argumento e outro. (São os argumentos não nomeados)
-Para remover esses espaços impressos, utilizamos o argumento: sep=''
+Para remover esses espaços impressos, utilizamos o argumento: sep=''. (São os argumentos nomeados)
 """
 
 # Argumentos não nomeados
